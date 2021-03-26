@@ -10,6 +10,8 @@ I am a Staff Engineer at [@Clause](https://clause.io/), where we connect your ag
 <code><img height="20" src="https://user-images.githubusercontent.com/29004603/75462714-9dd79b80-59bf-11ea-8e6b-575765733340.png"></code>
 <code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
 
+**Additional Information about me:**  
+
   - 💬 Ask me about: Anything
   - 😄 Pronouns: She/Her
   - ⚡ Fun fact: I love to explore in the nature. Gardening, Cooking/Feeding are the things I love the most
